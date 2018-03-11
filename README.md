@@ -1,5 +1,5 @@
 # Data Structures
-* [Binary Search Trees] (https://github.com/bhvjain/algorithms/blob/master/binary_search_tree.h)
+* [Binary Search Trees] (binary_search_tree.h)
 * [Trie] (trie.cpp)
 * [Disjoint-Set] (disjoint-set.cpp)
 
